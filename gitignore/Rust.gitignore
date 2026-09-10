@@ -1,0 +1,12 @@
+# Rust / Cargo
+/target/
+**/*.rs.bk
+Cargo.lock
+# Keep Cargo.lock for binaries; remove this line for libraries
+# Mantém Cargo.lock em binários; remove esta linha em bibliotecas
+.idea/
+.vscode/
+.DS_Store
+.env
+.env.*
+!.env.example

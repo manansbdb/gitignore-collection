@@ -1,0 +1,14 @@
+# Go
+bin/
+dist/
+*.exe
+*.test
+*.out
+vendor/
+coverage.out
+.idea/
+.vscode/
+.DS_Store
+.env
+.env.*
+!.env.example
